@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://twitter.com/velkazor" target="blank"><img src="https://img.shields.io/twitter/follow/velkazor?logo=twitter&style=for-the-badge" alt="velkazor" /></a> </p>
 
--  I’m currently working on [VidsCale](https://github.com/velkazor/VidsCale)
 
--  I’m currently learning **AI, Cyber Security**
 
--  Ask me about **Anything**
+
+
+
 
 -  How to reach me **velkazor@proton.me**
 
--  Fun fact **I'm not funny**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
