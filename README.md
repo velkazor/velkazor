@@ -1,19 +1,19 @@
-<h1 align="center">Hi 👋, I'm Velkazor</h1>
+<h1 align="center">Hi , I'm Velkazor</h1>
 <h3 align="center">A passionate fullstack dev from Sri Lanka.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=velkazor&label=Profile%20views&color=0e75b6&style=flat" alt="velkazor" /> </p>
 
 <p align="left"> <a href="https://twitter.com/velkazor" target="blank"><img src="https://img.shields.io/twitter/follow/velkazor?logo=twitter&style=for-the-badge" alt="velkazor" /></a> </p>
 
-- 🔭 I’m currently working on [VidsCale](https://github.com/velkazor/VidsCale)
+-  I’m currently working on [VidsCale](https://github.com/velkazor/VidsCale)
 
-- 🌱 I’m currently learning **AI, Cyber Security**
+-  I’m currently learning **AI, Cyber Security**
 
-- 💬 Ask me about **Anything**
+-  Ask me about **Anything**
 
-- 📫 How to reach me **velkazor@proton.me**
+-  How to reach me **velkazor@proton.me**
 
-- ⚡ Fun fact **I'm not funny**
+-  Fun fact **I'm not funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
